@@ -9,7 +9,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     }
     
     html, body {
-    height: 100%;
     line-height: 170%;
     }
     
@@ -70,7 +69,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
         background-size: cover;
         box-sizing: border-box;
         color: #D3D9D0;
-        height: 100%;
+        min-height: 100vh;
         width: 100%;
     }
 
